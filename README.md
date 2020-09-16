@@ -4,7 +4,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyotae07&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23373BBC&title=hi&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Portfolio Badge](http://img.shields.io/badge/-Notion%20-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+[![Portfolio Badge](http://img.shields.io/badge/-Portfolio%20-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
 	
 
 
