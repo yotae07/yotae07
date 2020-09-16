@@ -6,8 +6,7 @@
 
 [![Portfolio Badge](http://img.shields.io/badge/-Portfolio%20-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
 	
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello
-~                              |     yotae07@gmail.com)](mailto:yotae07@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yotae07@gmail.com)](mailto:yotae07@gmail.com)
 
 </div>
 
